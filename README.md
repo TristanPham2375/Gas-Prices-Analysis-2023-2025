@@ -32,8 +32,18 @@ This project examines the correlation between gas prices in Toronto and the over
 ### Prerequisites:
 Before running the code, make sure you have Python and the necessary libraries installed.
 
+### Prerequisites:
+Before running the code, make sure you have Python and the necessary libraries installed.
+
 1. **Install Python**: [Download Python](https://www.python.org/downloads/)
 2. **Install the required libraries**: Run the following command to install all necessary libraries.
-
    ```bash
-   pip install numpy pandas seaborn matplotlib
+   pip install numpy pandas matplotlib
+3. **Install Data File**: Ensure that the dataset file Data_File.csv is placed in the correct directory. Update the file path in the code accordingly:
+python
+   ```bash
+   data_temp = pd.read_csv(r"C:\path\to\your\data\Data_File.csv")
+4. **Editing**: I recommned jupyter notebook to acess and edit the contents. You can download jupyter notebook:
+   ```bash
+   pip install jupyterlab
+   jupyter lab

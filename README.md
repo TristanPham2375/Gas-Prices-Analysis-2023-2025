@@ -6,6 +6,7 @@ This project examines the correlation between gas prices in Toronto and the over
 ### Data Sources:
 - The data includes historical gas prices across Canada, with specific focus on **Toronto**, **Ontario**, and other regions in Canada.
 - The dataset spans several years to capture price trends, volatility, and regional differences.
+![Screenshot 2025-03-10 021724](https://github.com/user-attachments/assets/b720954a-0150-4f7d-a30e-65a0adccc3fb)
 
 ### Analysis Focus:
 1. **Correlation of Toronto's Gas Prices with the National Average**: Assessing whether Toronto's gas prices follow national trends or have unique fluctuations.
